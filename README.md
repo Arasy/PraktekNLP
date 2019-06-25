@@ -7,3 +7,6 @@ Ini adalah bahan untuk praktikum mata kuliah pilihan NLP tentang speech recognit
 - Sinyal suara dan wicara
 - Transformation Fourier
 - Short Time Fourier Transform (STFT)
+
+## Data
+Folder data disiapkan, tetapi datanya disimpan di tempat terpisah. Download sesuai dengan petunjuk pada slide praktikum!
