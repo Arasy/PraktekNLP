@@ -11,9 +11,9 @@ Ini adalah bahan untuk praktikum mata kuliah pilihan NLP tentang speech recognit
 - Multilayer Perceptron
 
 ## Persiapan
-Install jupyter-notebook. Bisa menggunakan anaconda atau melalui pip install jupyter
-Install library yang dibutuhkan
-Download data audio yang disediakan
+- Install jupyter-notebook. Bisa menggunakan anaconda atau melalui pip install jupyter
+- Install library yang dibutuhkan
+- Download data audio yang disediakan
 
 ## Data
 Folder data disiapkan, tetapi datanya disimpan di tempat terpisah. Download sesuai dengan petunjuk pada slide praktikum!
