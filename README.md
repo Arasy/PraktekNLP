@@ -27,4 +27,14 @@ Folder data disiapkan, tetapi datanya disimpan di tempat terpisah. Download sesu
 - sklearn
 - tensorflow
 
+## Note
+- Jika modul tensorflow tidak bisa diinstall, upgrade pythonnya ke python 3.8
+- Jika modul tensorflownya tidak bisa dipanggil waktu menyusun Multi Layer Perceptronnya, ganti kode 
+
+        import tensorflow as tf
+    dengan 
+
+        import tensorflow.compat.v1 as tf
+        tf.disable_v2_behavior() 
+
 Heavily adopted from https://github.com/linerocks/mlid6/blob/master/Signal%20Processing%20Crash%20Course.ipynb
